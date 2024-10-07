@@ -22,7 +22,7 @@ This repository provides a simple token faucet service for the Sepolia network. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/token-faucet.git
+   git clone https://github.com/krmrr/TOKEN-FAUCET-BACKEND.git
    ```
 2. Navigate to the project directory:
    ```bash
